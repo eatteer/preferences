@@ -1,7 +1,7 @@
-# preferences
+# Preferences
 
 Flutter project.
 
 ## Overview
 
-This project use shared_preferences library for saving data into phone
+Save data into phone using shared preferences_library
